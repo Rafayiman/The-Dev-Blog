@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N1IQvgDk8gCUhk0lFAlsCDXpBy0CiJZLv0lXX9lBH5Y=",
+  "Source": "TheDevBlog.API",
+  "BasePath": "_content/TheDevBlog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
